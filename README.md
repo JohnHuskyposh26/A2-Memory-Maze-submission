@@ -1,5 +1,6 @@
 # A2-Memory-Maze-submission
 Table of Contents
+Code link
 General Info
 Technologies Used
 Features
@@ -10,6 +11,9 @@ Project Status
 Room for Improvement
 Acknowledgements
 Contact
+
+Code link
+https://makecode.com/_gyAEVLX0Mh9A
 
 General Info
 Memory Maze was created to enhance problem-solving and memory skills through gameplay. The purpose of this project is to build a challenging game where players need to remember disappearing paths while avoiding obstacles to reach the goal. The game was inspired by classic memory puzzles and maze games, with a goal of pushing players' abilities to memorise under pressure.
